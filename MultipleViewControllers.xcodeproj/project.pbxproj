@@ -14,6 +14,7 @@
 		8CF50C63222A61AC003FDAB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CF50C61222A61AC003FDAB7 /* LaunchScreen.storyboard */; };
 		8CF50C6E222A61AC003FDAB7 /* MultipleViewControllersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF50C6D222A61AC003FDAB7 /* MultipleViewControllersTests.swift */; };
 		8CF50C79222A61AC003FDAB7 /* MultipleViewControllersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF50C78222A61AC003FDAB7 /* MultipleViewControllersUITests.swift */; };
+		8CF50C87222A6204003FDAB7 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF50C86222A6204003FDAB7 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8CF50C74222A61AC003FDAB7 /* MultipleViewControllersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MultipleViewControllersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CF50C78222A61AC003FDAB7 /* MultipleViewControllersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleViewControllersUITests.swift; sourceTree = "<group>"; };
 		8CF50C7A222A61AC003FDAB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CF50C86222A6204003FDAB7 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				8CF50C58222A61A8003FDAB7 /* AppDelegate.swift */,
 				8CF50C5A222A61A8003FDAB7 /* ViewController.swift */,
 				8CF50C5C222A61A8003FDAB7 /* Main.storyboard */,
+				8CF50C86222A6204003FDAB7 /* SecondViewController.swift */,
 				8CF50C5F222A61AC003FDAB7 /* Assets.xcassets */,
 				8CF50C61222A61AC003FDAB7 /* LaunchScreen.storyboard */,
 				8CF50C64222A61AC003FDAB7 /* Info.plist */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CF50C87222A6204003FDAB7 /* SecondViewController.swift in Sources */,
 				8CF50C5B222A61A8003FDAB7 /* ViewController.swift in Sources */,
 				8CF50C59222A61A8003FDAB7 /* AppDelegate.swift in Sources */,
 			);
